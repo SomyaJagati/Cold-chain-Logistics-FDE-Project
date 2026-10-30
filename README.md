@@ -632,5 +632,4 @@ python src/cold_chain_logistics/orchestrator.py
 ## 📄 License & Maintainers
 * **Author**: Somya Jagati ([somyajagati@gmail.com](mailto:somyajagati@gmail.com))
 * **Repository**: [Cold Chain Logistics FDE Project](https://github.com/nimowhyca/cold-chain-logistics-FDE-Project)
-* **License**: MIT Enterprise License
 
