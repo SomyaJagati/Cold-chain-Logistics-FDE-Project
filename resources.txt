@@ -1,0 +1,7 @@
+YOUTUBE :- https://youtu.be/FSZhPDzESPU?si=gzr1pWoob8LPnZzR&t=11336
+
+GITHUB :- https://github.com/nimowhyca/cold-chain-logistics-FDE-Project
+
+activate venv : .\.venv\Scripts\Activate.ps1
+
+uv run python scripts/dummy.py
